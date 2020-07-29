@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/maayanyosef/maayanyosef/blob/master/dino.gif)
 
 <!--
 **maayanyosef/maayanyosef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
